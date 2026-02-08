@@ -1,0 +1,5 @@
+As a Cloud Security Auditor within a fintech organization,
+I want to systematically identify, analyze, and document network-level vulnerabilities across the AWS 3-tier architecture (Public/Web, Application, and Data tiers), including VPC design, subnet segregation, routing, internet gateways, NAT gateways, load balancers, security groups, EC2 instances, RDS connectivity, and network logging,
+so that misconfigurations, excessive trust relationships, and unintended internet exposure are clearly identified,
+and realistic attack paths such as external compromise, lateral movement between tiers, and unauthorized access to regulated financial data can be demonstrated,
+allowing the organization to prioritize remediation based on risk, reduce the attack surface, and meet regulatory and audit expectations under PCI DSS, RBI cybersecurity guidelines, and ISO 27001.
