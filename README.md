@@ -2,10 +2,10 @@
 **Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity**
 
 ## Team
-- Shubham Gupta - Network Analyst
-- Nigamananda Khandual - Architecture Reviewer
-- Ojas Pandey - Scrum Master
-- Sachin Wakaley - Documentation Lead
+- Ojas Pandey - **Scrum Master** and Network Architecture Review
+- Shubham Gupta - **Product Owner** and Vulnerabilities researcher
+- Nigamananda Khandual -Best Practice research/developer
+- Sachin Wakaley - Threat Analysis research/developer
 
 ## Project Overview
 This repository contains our security analysis research on **Cloud Network Architecture** (VPC design, security groups, network ACLs), completed during Sprint 1 (2 weeks). 
@@ -13,8 +13,7 @@ We used AI tools (ChatGPT, Gemini, Perplexity) for research and documented our p
 
 ## Key Findings
 *(To be updated as the sprint progresses)*
-- [Brief finding 1]
-- [Brief finding 2]
+- Please refer to Executive Summary
 
 ## Repository Structure
 - **docs/**: Main analysis report and diagrams
@@ -22,4 +21,4 @@ We used AI tools (ChatGPT, Gemini, Perplexity) for research and documented our p
 - **meetings/**: Agile ceremony notes (Standups, Planning, Retrospective)
 
 ## AI Tools Used
-- ChatGPT / Gemini / Claude
+- ChatGPT / Gemini / Claude/Copilot
