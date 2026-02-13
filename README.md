@@ -12,8 +12,18 @@ This repository contains our security analysis research on **Cloud Network Archi
 We used AI tools (ChatGPT, Gemini, Perplexity) for research and documented our process using Agile methodology. 
 
 ## Key Findings
-*(To be updated as the sprint progresses)*
-- Please refer to Executive Summary
+Please refer to Executive Summary for the technical details.
+
+The other key learnings are as follows:
+-   AI Data Source Validation
+-   Understanding Retrieval-Based AI Architecture
+-   Task Segmentation & Parallel Execution
+-   Documentation & Reporting Standardization
+-   Agile Collaboration & Sprint Planning
+-   Communication Between Technical & Non-Technical Stakeholders
+-   Time Management Under Deadlines
+
+
 
 ## Repository Structure
 - **docs/**: Main analysis report and diagrams
